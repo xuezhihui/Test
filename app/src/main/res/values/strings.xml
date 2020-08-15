@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="search_key_none">请输入搜索内容</string>
+</resources>
