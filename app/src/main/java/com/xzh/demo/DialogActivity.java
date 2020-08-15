@@ -7,7 +7,11 @@ import android.view.View;
 import android.widget.Button;
 
 import androidx.appcompat.app.AppCompatActivity;
-
+/**
+ * dialog测试
+ * @author NorthStar
+ * @date 2020/8/15 19:56
+ */
 public class DialogActivity extends AppCompatActivity implements View.OnClickListener {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
